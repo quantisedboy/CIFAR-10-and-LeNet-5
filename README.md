@@ -10,7 +10,7 @@ A Basic code of LeNet - 5 using Pytorch on the CIFAR-10 dataset.
 
 Optimizer used : Adam   
 Epochs : 100  
-Train Batch Size = 250 
-learning Rate = 0.001
+Train Batch Size = 250   
+learning Rate = 0.001  
 **Maximum Training Accuracy Reached = 34.786 %**
 
