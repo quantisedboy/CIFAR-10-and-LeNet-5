@@ -17,4 +17,8 @@ learning Rate = 0.001
 ![Figure_1](https://user-images.githubusercontent.com/45620309/79049461-73753100-7c41-11ea-9843-b6682394ef32.png)    
   
  ### Total_Loss vs Epoch  
- ![loss_change](https://user-images.githubusercontent.com/45620309/79049588-204fae00-7c42-11ea-8315-8a7d0e6da0fa.png)
+ ![loss_change](https://user-images.githubusercontent.com/45620309/79049588-204fae00-7c42-11ea-8315-8a7d0e6da0fa.png)  
+ 
+ ##### Test Case  
+ Total Loss for test run = 85.73223114013672  
+ *Test Accuracy = 31.46*  
