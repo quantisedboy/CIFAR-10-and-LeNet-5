@@ -14,4 +14,7 @@ Train Batch Size = 250
 learning Rate = 0.001  
 **Maximum Training Accuracy Reached = 34.786 %**  
 
-![Figure_1](https://user-images.githubusercontent.com/45620309/79049461-73753100-7c41-11ea-9843-b6682394ef32.png)  
+![Figure_1](https://user-images.githubusercontent.com/45620309/79049461-73753100-7c41-11ea-9843-b6682394ef32.png)    
+  
+ ### Total_Loss vs Epoch  
+ ![loss_change](https://user-images.githubusercontent.com/45620309/79049588-204fae00-7c42-11ea-8315-8a7d0e6da0fa.png)
